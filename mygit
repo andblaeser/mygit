@@ -3,4 +3,4 @@
 import libmygit
 libmygit.main()
 
-$ chmod +x mygit
+$ chmod + x mygit
